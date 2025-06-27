@@ -14,7 +14,7 @@ func (r *StdinTextGetter) GetText(tip string) (string, error) {
 	if tip == "" {
 		tip = r.Tip
 	}
-	fmt.Println("Please input", tip)
+	fmt.Println("Please input 2fa code", tip)
 	var s string
 	_, err := fmt.Scanln(&s)
 	return s, err
