@@ -2,6 +2,13 @@
 
 Access Apple iCloud via go, go port of pyicloud.
 
+> [!IMPORTANT]
+> 本仓库已经归档，是 [chyroc/icloudgo](https://github.com/chyroc/icloudgo) 的历史分支，不再维护。请优先参考上游仓库获取最新代码、文档和安全修复。
+
+## License
+
+This project retains the upstream [Apache License 2.0](LICENSE). Copyright and attribution notices from the upstream project remain applicable.
+
 ## Download iCloud Photos
 
 ### By Docker
